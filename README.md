@@ -3,7 +3,7 @@
 </h3>
 
 
-## :rocket: Sobre o desafio
+## Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
